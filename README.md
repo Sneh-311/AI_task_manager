@@ -1,6 +1,6 @@
 # 📌 AI Task Manager 
 
-An interactive and intuitive web app designed for efficient task monitoring and prioritization. Built with **Streamlit**, **scikit-learn**, and **pandas**, this dashboard empowers users to explore tasks, predict priority levels using a machine learning model, and visualize key project trends — all within a streamlined interface.
+An interactive and intuitive web app designed for efficient task monitoring and prioritization. Built with **Streamlit**, **scikit-learn**, and **pandas**, this dashboard empowers users to explore tasks, predict priority levels using a machine learning model, and visualize key project trends- all within a streamlined interface.
 
 ---
 
